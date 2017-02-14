@@ -8,7 +8,7 @@ Front End development:
 5. Wordpress website for Ryerson Psychology Labs: http://psychlabs.ryerson.ca/
 6. Wordpress website for Sake Institute of Ontario: http://www.sakeinstituteofontario.com/
 7. Shopify website for The Imagination Spot: https://www.theimaginationspot.com/
-8. 
+8. Try ember: https://github.com/hollygood/ember_project_one
 
 Back End Development:
 
