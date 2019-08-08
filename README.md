@@ -1,5 +1,10 @@
+Projects:
 
-Front End development:
+1. Codepen: http://codepen.io/katwhocodes 
+2. Posts: http://codepen.io/katwhocodes/posts/popular/ 
+3. Stackblitz: https://stackblitz.com/@hollygood
+
+Previous Front End development:
 
 1. Animated website for Ryerson University - SocialVenture Zone: http://www.ryerson.ca/svz/
 2. A fully responsive and SEO friendly website with a backend CMS system for Day&Ross: https://www.dayrossdedicated.ca/
@@ -19,9 +24,3 @@ Game:
 1. Besons&Hedges Brick Breaker Game
 2. Besons&Hedges Latitude Race game
 3. Philip Morris Game
-
-
-Playground:
-
-1. Codepen: http://codepen.io/katwhocodes 
-2. Posts: http://codepen.io/katwhocodes/posts/popular/ 
