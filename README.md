@@ -3,10 +3,7 @@ Projects:
 1. Codepen: http://codepen.io/katwhocodes 
 2. Posts: http://codepen.io/katwhocodes/posts/popular/ 
 3. Stackblitz: https://stackblitz.com/@hollygood
-
-Back End Development:
-
-1. Internal Website for Mollymaid: http://mirror.mollymaid.ca/
+4. Angular 6+ CMS by utilizing Metronic theme: https://preview.keenthemes.com/metronic/demo1/index.html
 
 Game: 
 
